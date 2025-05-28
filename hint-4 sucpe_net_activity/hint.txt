@@ -1,0 +1,3 @@
+Suspicious Network Activity
+Hint:
+Use tools like Wireshark or tcpdump to monitor abnormal traffic patterns. Look for port scanning, repeated connection attempts, or odd DNS queries

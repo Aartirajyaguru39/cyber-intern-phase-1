@@ -1,0 +1,3 @@
+3. Data Exfiltration Detection
+Hint:
+Watch for large outbound traffic on non-standard ports. Analyze network logs, and use Wireshark to capture exfiltration attempts.

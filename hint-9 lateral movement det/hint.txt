@@ -1,0 +1,2 @@
+Hint:
+Monitor SMB, WMI, RDP, or PsExec traffic between internal systems. Use Sysmon Event ID 3 and Windows Event ID 4624 to trace logons

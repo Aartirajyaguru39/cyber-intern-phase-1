@@ -1,0 +1,3 @@
+Unauthorized Access Attempt
+Hint:
+Audit logs are your best friend. Search for login attempts outside office hours, use of disabled accounts, or access from unusual geolocations
